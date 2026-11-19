@@ -82,7 +82,7 @@ myntra-clone/
 
 ### Home Page
 
-<!-- Add your home page screenshot here -->
+![Myntra Clone Home Page](screenshots/home-page.png)
 
 ### Shopping Bag
 
