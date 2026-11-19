@@ -86,4 +86,4 @@ myntra-clone/
 
 ### Shopping Bag
 
-<!-- Add your shopping bag screenshot here -->
+![Myntra Clone Shopping Bag](screenshots/shopping-bag.png)
